@@ -105,7 +105,7 @@ body::-webkit-scrollbar {
 .scrolling-text {
     display: inline-block;
     white-space: nowrap; /* Prevent text from wrapping to the next line */
-    animation: scroll 35s linear infinite; /* Create continuous scrolling animation */
+    animation: scroll 60s linear infinite; /* Create continuous scrolling animation */
     width: max-content; /* Set width to twice the container size to enable looping */
     user-select: none;
 }
