@@ -64,7 +64,7 @@ body::-webkit-scrollbar {
 
 /* Parallax background */
 .parallax {
-    background-image: url('vhrl/images/profile4.JPG');
+    background-image: url('https://raw.githubusercontent.com/vincentloh5/vhrl/main/images/profile4.JPG');
     height: 100vh;
     background-attachment: fixed;
     background-size: cover;
